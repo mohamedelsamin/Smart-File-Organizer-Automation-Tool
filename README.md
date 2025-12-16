@@ -4,7 +4,7 @@ Smart File Organizer is a Python-based automation tool that helps you keep your 
 
 This project focuses on **file system automation**, **clean project structure**, and **real-world Python practices**.
 
----
+--- 
 
 ##  Features
 
